@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 25 09:43:28 2024
-
-@author: Zver
-"""
 
 def test_function():
     # Это функция test_function
